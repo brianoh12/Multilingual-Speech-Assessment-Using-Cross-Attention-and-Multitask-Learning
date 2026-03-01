@@ -6,7 +6,12 @@ This repository presents the research summary of the architecture introduced in 
 - Title: Multilingual Speech Assessment Using Cross-Attention and Multitask Learning
 - Venue: Interspeech 2025
 - DOI: 10.21437/Interspeech.2025-249
-- Authors: Sehyun Oh, Sunhee Kim, Minhwa Chung
+- Authors: Sehyun Oh, Minhwa Chung, Sunhee Kim
+
+## Paper Link
+- ISCA Archive page: https://www.isca-archive.org/interspeech_2025/oh25b_interspeech.html
+- PDF: https://www.isca-archive.org/interspeech_2025/oh25b_interspeech.pdf
+- DOI link: https://doi.org/10.21437/Interspeech.2025-249
 
 ## Summary
 - Multilingual automatic speech assessment for non-native spontaneous speech
@@ -18,7 +23,7 @@ This repository presents the research summary of the architecture introduced in 
 ```bibtex
 @inproceedings{oh2025multilingual,
   title={Multilingual Speech Assessment Using Cross-Attention and Multitask Learning},
-  author={Oh, Sehyun and Kim, Sunhee and Chung, Minhwa},
+  author={Oh, Sehyun and Chung, Minhwa and Kim, Sunhee},
   booktitle={Interspeech 2025},
   year={2025},
   doi={10.21437/Interspeech.2025-249}
