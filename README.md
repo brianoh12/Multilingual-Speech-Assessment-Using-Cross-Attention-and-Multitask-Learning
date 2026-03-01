@@ -1,18 +1,18 @@
 # Multilingual Speech Assessment Using Cross-Attention and Multitask Learning
 
-This repository is a brief, code-free summary of the Interspeech 2025 paper:
-**"Multilingual Speech Assessment Using Cross-Attention and Multitask Learning"**.
+This repository presents the research summary of the architecture introduced in the paper, "Multilingual Speech Assessment Using Cross-Attention and Multitask Learning" (Interspeech 2025).
 
-## Paper Information
-- Conference: Interspeech 2025
+## Paper
+- Title: Multilingual Speech Assessment Using Cross-Attention and Multitask Learning
+- Venue: Interspeech 2025
 - DOI: 10.21437/Interspeech.2025-249
 - Authors: Sehyun Oh, Sunhee Kim, Minhwa Chung
 
 ## Summary
-- The study addresses multilingual automatic speech assessment for non-native spontaneous speech.
-- It targets English, German, and French speech produced by Korean learners.
-- The method uses cross-attention and multitask learning to capture language-specific and cross-linguistic cues from raw audio.
-- Results reported in the paper indicate better generalization on both seen and unseen data compared to monolingual approaches.
+- Multilingual automatic speech assessment for non-native spontaneous speech
+- Target languages: English, German, and French produced by Korean learners
+- Cross-attention and multitask learning to model language-specific and shared cues
+- Improved generalization on both seen and unseen evaluation sets, as reported in the paper
 
 ## Citation
 ```bibtex
